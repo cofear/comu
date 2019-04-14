@@ -9,4 +9,4 @@
 - wxPython 界面布局
 - xlrd Excel数据读取
 - docxtpl word模板填充
-
+- pyinstaller 生成桌面应用
